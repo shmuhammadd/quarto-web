@@ -4,6 +4,11 @@ project:
   # post-render:
   #   - "cp -rnv static/. _site" # source: https://github.com/quarto-dev/quarto-cli/discussions/4162#discussioncomment-4831352
 
+publish:
+  gh-pages:
+    branch: gh-pages
+    url: https://github.com/shmuhammadd/quarto-web
+
 website:
   title: "Silvia Canelón"
   site-url: https://silviacanelon.com
