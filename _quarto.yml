@@ -7,10 +7,10 @@ project:
 publish:
   gh-pages:
     branch: gh-pages
-    url: https://shmuhammadd.github.io/quarto-web/about
+    url: https://shmuhammadd.github.io/quarto-web/about/
 
 website:
-  title: "Silvia Canelón"
+  title: "Shamsuddeen Hassan Muhammad"
   site-url: "https://shmuhammadd.github.io/quarto-web/about/"
   description: "Researcher and data educator applying biomedical and spatial data science in ways that prioritize health equity."
   favicon: assets/silvia/img/logo_rounded.svg
@@ -32,7 +32,7 @@ website:
     # logo: assets/silvia/img/logo_noBg.svg
     tools:
     - icon: github
-      href: https://github.com/shmuhammadd/quarto-web
+      href: https://shmuhammadd.github.io/quarto-web/about/
     right:
       - text: About
         aria-label: "About Me"

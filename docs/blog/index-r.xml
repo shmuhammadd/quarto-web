@@ -6,8 +6,8 @@
       version="2.0">
 <channel>
 <title>Silvia Canelón</title>
-<link>https://github.com/shmuhammadd/quarto-web/blog/index.html#category=R</link>
-<atom:link href="https://github.com/shmuhammadd/quarto-web/blog/index-r.xml" rel="self" type="application/rss+xml"/>
+<link>https://shmuhammadd.github.io/quarto-web/about/blog/index.html#category=R</link>
+<atom:link href="https://shmuhammadd.github.io/quarto-web/about/blog/index-r.xml" rel="self" type="application/rss+xml"/>
 <description>This is my blog where I practice sharing my curiosity about R.&lt;br&gt;
 It includes notes and tutorials for my future self and hopefully also for you.&lt;br&gt;&lt;br&gt;
 {{&lt; bi substack &gt;}} Sign up for my [newsletter](https://spcanelon.substack.com/) to receive updates about new posts.
@@ -17,7 +17,7 @@ It includes notes and tutorials for my future self and hopefully also for you.&l
 <item>
   <title>Hello Quarto: Porting my Website from Hugo Apéro</title>
   <dc:creator>Silvia Canelón</dc:creator>
-  <link>https://github.com/shmuhammadd/quarto-web/blog/2023-09-29-hello-quarto/index.html</link>
+  <link>https://shmuhammadd.github.io/quarto-web/about/blog/2023-09-29-hello-quarto/index.html</link>
   <description><![CDATA[ 
 
 <!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
@@ -44,14 +44,14 @@ It includes notes and tutorials for my future self and hopefully also for you.&l
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canelón2023" class="csl-entry quarto-appendix-citeas">
 Canelón, Silvia. 2023. <span>“Hello Quarto: Porting My Website from Hugo
-Apéro.”</span> September 29, 2023. <a href="https://github.com/shmuhammadd/quarto-web/blog/2023-09-29-hello-quarto">https://github.com/shmuhammadd/quarto-web/blog/2023-09-29-hello-quarto</a>.
+Apéro.”</span> September 29, 2023. <a href="https://shmuhammadd.github.io/quarto-web/about//blog/2023-09-29-hello-quarto">https://shmuhammadd.github.io/quarto-web/about//blog/2023-09-29-hello-quarto</a>.
 </div></div></section></div> ]]></description>
   <category>R</category>
   <category>quarto</category>
   <category>website</category>
-  <guid>https://github.com/shmuhammadd/quarto-web/blog/2023-09-29-hello-quarto/index.html</guid>
+  <guid>https://shmuhammadd.github.io/quarto-web/about/blog/2023-09-29-hello-quarto/index.html</guid>
   <pubDate>Thu, 28 Sep 2023 23:00:00 GMT</pubDate>
-  <media:content url="https://github.com/shmuhammadd/quarto-web/blog/2023-09-29-hello-quarto/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://shmuhammadd.github.io/quarto-web/about/blog/2023-09-29-hello-quarto/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
