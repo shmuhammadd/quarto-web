@@ -1,1 +1,1 @@
-Sitemap: https://github.com/shmuhammadd/quarto-web/sitemap.xml
+Sitemap: https://shmuhammadd.github.io/quarto-web/about/sitemap.xml

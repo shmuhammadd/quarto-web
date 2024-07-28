@@ -7,11 +7,11 @@ project:
 publish:
   gh-pages:
     branch: gh-pages
-    url: https://github.com/shmuhammadd/quarto-web
+    url: https://shmuhammadd.github.io/quarto-web/about
 
 website:
   title: "Silvia Canelón"
-  site-url: "https://github.com/shmuhammadd/quarto-web"
+  site-url: "https://shmuhammadd.github.io/quarto-web/about/"
   description: "Researcher and data educator applying biomedical and spatial data science in ways that prioritize health equity."
   favicon: assets/silvia/img/logo_rounded.svg
   page-navigation: true
