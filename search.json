@@ -172,7 +172,7 @@
     "href": "project/2023-04-18-r-for-the-rest-of-us/index.html",
     "title": "R for the Rest of Us Podcast: Episode #7",
     "section": "",
-    "text": "From David Keyes of R for the Rest of Us:\n\nIn this episode, I talk with Silvia Canelón, a postdoctoral research scientist in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania. Silvia shares why she loves using xaringan to create captivating, audience-friendly presentations directly from R markdown. Making presentations with R Markdown not only saves her time, but also eases the stress associated with updating and distributing presentations.\n\n\n\n\n Back to topCitationFor attribution, please cite this work as:\nCanelón, Silvia. 2023. “R for the Rest of Us Podcast: Episode\n#7.” April 18, 2023. https://silviacanelon.com/project/2023-04-18-r-for-the-rest-of-us."
+    "text": "From David Keyes of R for the Rest of Us:\n\nIn this episode, I talk with Silvia Canelón, a postdoctoral research scientist in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania. Silvia shares why she loves using xaringan to create captivating, audience-friendly presentations directly from R markdown. Making presentations with R Markdown not only saves her time, but also eases the stress associated with updating and distributing presentations.\n\n\n\n\n Back to topCitationFor attribution, please cite this work as:\nCanelón, Silvia. 2023. “R for the Rest of Us Podcast: Episode\n#7.” April 18, 2023. https://github.com/shmuhammadd/quarto-web/project/2023-04-18-r-for-the-rest-of-us."
   },
   {
     "objectID": "project/index.html",

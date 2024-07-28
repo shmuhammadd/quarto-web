@@ -1,1 +1,1 @@
-Sitemap: https://silviacanelon.com/sitemap.xml
+Sitemap: https://github.com/shmuhammadd/quarto-web/sitemap.xml
