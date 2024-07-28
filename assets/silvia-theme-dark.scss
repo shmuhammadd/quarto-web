@@ -32,9 +32,11 @@ $line-height-base:           1.5;  // Base line height for better readability
 // Links
 
 $link-color:                  $primary;
-$link-decoration:             none;  // Modern design trend for cleaner look
+$link-decoration:             underline;  // Best practice for accessibility
 $link-hover-color:            $primary-dark;
-$link-hover-decoration:       underline;
+$link-hover-decoration:       none;  // No underline on hover for a cleaner look
+$link-focus-color:            $primary-dark;
+$link-focus-decoration:       underline;  // Ensure underline remains on focus
 
 // Tables
 
@@ -311,6 +313,14 @@ p code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode) {
       text-decoration: underline;
     }
   }
+}
+
+// Section headings
+#about h2,
+#blog h2,
+#talk h2,
+#publication h2 {
+  color: $primary;
 }
 
 // Mobile
