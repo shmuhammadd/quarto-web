@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Silvia Canelón</title>
+<link>https://silviacanelon.com/blog/index.html</link>
+<atom:link href="https://silviacanelon.com/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>This is my blog where I practice sharing my curiosity about R.&lt;br&gt;
+It includes notes and tutorials for my future self and hopefully also for you.&lt;br&gt;&lt;br&gt;
+{{&lt; bi substack &gt;}} Sign up for my [newsletter](https://spcanelon.substack.com/) to receive updates about new posts.
+</description>
+<generator>quarto-1.4.122</generator>
+<lastBuildDate>Thu, 28 Sep 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hello Quarto: Porting my Website from Hugo Apéro</title>
+  <dc:creator>Silvia Canelón</dc:creator>
+  <link>https://silviacanelon.com/blog/2023-09-29-hello-quarto/index.html</link>
+  <description><![CDATA[ 
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+<section id="goodbye-hugo-apéro" class="level2">
+<h2 class="anchored" data-anchor-id="goodbye-hugo-apéro">Goodbye, Hugo Apéro</h2>
+<p>In 2019 I created my first website using blogdown and the <a href="https://hugo-academic--silvia.netlify.app/">Hugo Academic theme</a>, and in 2021 I migrated that site to the <a href="https://hugo-apero--silvia.netlify.app/">Hugo Apéro theme</a> created by Alison Hill. I even <a href="../2021-06-01-hello-hugo-apero/">documented that trek in great detail 😅</a> to provide something resembling a paved path for others to use on their journey adopting this beautiful and functional theme. Over the past two years, my Apéro site became a wonderful place to cultivate a <a href="https://youtu.be/E5ERSfydB30?feature=shared&amp;t=694">digital garden</a><sup>1</sup>. Now the time has come to say thank you, say goodbye, and travel down a new path. Enter Quarto.</p>
+
+
+</section>
+<aside id="footnotes" class="footnotes footnotes-end-of-document">
+<hr>
+<ol>
+<li id="fn1"><p>See also <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/">Digital gardens let you cultivate your own little bit of the internet | MIT Technology Review</a>↩︎</p></li>
+</ol>
+</aside>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-canelón2023" class="csl-entry quarto-appendix-citeas">
+Canelón, Silvia. 2023. <span>“Hello Quarto: Porting My Website from Hugo
+Apéro.”</span> September 29, 2023. <a href="https://silviacanelon.com/blog/2023-09-29-hello-quarto">https://silviacanelon.com/blog/2023-09-29-hello-quarto</a>.
+</div></div></section></div> ]]></description>
+  <category>R</category>
+  <category>quarto</category>
+  <category>website</category>
+  <guid>https://silviacanelon.com/blog/2023-09-29-hello-quarto/index.html</guid>
+  <pubDate>Thu, 28 Sep 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://silviacanelon.com/blog/2023-09-29-hello-quarto/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

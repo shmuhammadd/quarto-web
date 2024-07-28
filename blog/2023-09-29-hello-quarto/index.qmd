@@ -1,0 +1,29 @@
+---
+title: 'Hello Quarto: Porting my Website from Hugo Apéro'
+author: Silvia Canelón
+date: '2023-09-29'
+date-modified: '2023-10-12'
+image: featured.jpg
+categories:
+  - R
+  - quarto
+  - website
+subtitle: >
+  Notes from porting my personal Blogdown website to Quarto
+description: ''
+links:
+- icon: journal-text
+  name: Quarto Docs
+  url: https://quarto.org/docs/websites/
+filters:
+   - include-code-files
+code-annotations: below
+df-print: paged
+---
+
+
+
+## Goodbye, Hugo Apéro
+
+In 2019 I created my first website using blogdown and the [Hugo Academic theme](https://hugo-academic--silvia.netlify.app/), and in 2021 I migrated that site to the [Hugo Apéro theme](https://hugo-apero--silvia.netlify.app/) created by Alison Hill. I even [documented that trek in great detail 😅](../2021-06-01-hello-hugo-apero/) to provide something resembling a paved path for others to use on their journey adopting this beautiful and functional theme. Over the past two years, my Apéro site became a wonderful place to cultivate a [digital garden](https://youtu.be/E5ERSfydB30?feature=shared&t=694)^[See also [Digital gardens let you cultivate your own little bit of the internet | MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)]. Now the time has come to say thank you, say goodbye, and travel down a new path. Enter Quarto.
+
