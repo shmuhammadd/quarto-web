@@ -11,7 +11,7 @@ publish:
 
 website:
   title: "Silvia Canelón"
-  site-url: https://silviacanelon.com
+  site-url: "https://github.com/shmuhammadd/quarto-web"
   description: "Researcher and data educator applying biomedical and spatial data science in ways that prioritize health equity."
   favicon: assets/silvia/img/logo_rounded.svg
   page-navigation: true
@@ -32,7 +32,7 @@ website:
     # logo: assets/silvia/img/logo_noBg.svg
     tools:
     - icon: github
-      href: https://www.github.com/spcanelon/silvia
+      href: https://github.com/shmuhammadd/quarto-web
     right:
       - text: About
         aria-label: "About Me"

@@ -1,6 +1,6 @@
 ---
-title: "Silvia Canelón"
-subtitle: Data Analyst,<br>Penn Medicine Center for Health Justice
+title: "Shamsuddeen Hassan Muhammad"
+subtitle: Natural Language Processing Researcher,<br>Imperial College London
 image: sidebar/avatar.png
 image-alt: "Smiling woman with a tan complexion, dark eyes, and dark long wavy hair styled to one side"
 about:

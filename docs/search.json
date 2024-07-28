@@ -135,21 +135,21 @@
   {
     "objectID": "about/index.html",
     "href": "about/index.html",
-    "title": "Silvia Canelón",
+    "title": "Shamsuddeen Hassan Muhammad",
     "section": "",
     "text": "Hey, I’m happy you’re here\n\nThanks for stopping by!\nI’m a data analyst in the Penn Medicine Center for Health Justice at the University of Pennsylvania. My research interests include applications of biomedical and spatial data science in the public and population health fields.\nI work on projects that use electronic health record (EHR) and geospatial data to explore how the neighborhood environment and access to urban nature can impact the health of individuals in Philadelphia. Learn more about my research interests in publications.\nGet in touch by sending me a note!"
   },
   {
     "objectID": "about/index.html#about-me",
     "href": "about/index.html#about-me",
-    "title": "Silvia Canelón",
+    "title": "Shamsuddeen Hassan Muhammad",
     "section": "About me",
     "text": "About me\n\n\nBiomedical engineer turned informaticist, curious about all intersections of data and society.\nI enjoy using R to optimize my data science workflow and have noticed it making guest appearances elsewhere in my life. I’m certified as an RStudio Tidyverse Instructor and am passionate about R education and data literacy as ways to build power in communities. Keep up with my R tinkering in my blog and presentations in talks.\n\n\nTidyverse Instructor Certification ∙ RStudio, PBC ∙ 2020\n\n\n\n\nPrior to joining the Center for Health Justice, I developed novel data mining methods to extract meaningful information from the EHR and study health outcomes and disparities in pregnant populations. I’m particularly interested in research that combines biomedical data science with open data sources in ways that prioritize health equity in communities.\n\n\nCertificate in Biomedical Informatics ∙ University of Pennsylvania ∙ 2019\n\n\nPh.D. in Biomedical Engineering ∙ Purdue University ∙ 2018\n\n\nB.S. in Biomedical Engineering ∙ University of Minnesota ∙ 2012"
   },
   {
     "objectID": "about/index.html#lately",
     "href": "about/index.html#lately",
-    "title": "Silvia Canelón",
+    "title": "Shamsuddeen Hassan Muhammad",
     "section": "Lately …",
     "text": "Lately …\n\n\nBlog\n\n\n\n\n\n\n\n\n\n\nHello Quarto: Porting my Website from Hugo Apéro\n\n\nNotes from porting my personal Blogdown website to Quarto\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →\n\n\nTalks\n\n\n\n\n\n\n\n\n\n\nEnvironmental Justice and Policy Panel\n\n\nPanel discussion hosted by Penn Science Policy and Diplomacy Group & Climate Leaders @Penn\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →\n\n\nPublications\n\n\n\n\n\n\n\n\n\n\nComparison of different definitions of traumatic brain injury: implications for cohort characteristics and survival in women, Philadelphia, USA\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nPhilly Center City District SIPS: An Interactive Map\n\n\nA collection of interactive maps showing restaurants participating in Phily’s CCD SIPS\n\n\n\n\n\n\n\nNo matching items\n\n\nSee all →"
   },
@@ -172,7 +172,7 @@
     "href": "project/2023-04-18-r-for-the-rest-of-us/index.html",
     "title": "R for the Rest of Us Podcast: Episode #7",
     "section": "",
-    "text": "From David Keyes of R for the Rest of Us:\n\nIn this episode, I talk with Silvia Canelón, a postdoctoral research scientist in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania. Silvia shares why she loves using xaringan to create captivating, audience-friendly presentations directly from R markdown. Making presentations with R Markdown not only saves her time, but also eases the stress associated with updating and distributing presentations.\n\n\n\n\n Back to topCitationFor attribution, please cite this work as:\nCanelón, Silvia. 2023. “R for the Rest of Us Podcast: Episode\n#7.” April 18, 2023. https://silviacanelon.com/project/2023-04-18-r-for-the-rest-of-us."
+    "text": "From David Keyes of R for the Rest of Us:\n\nIn this episode, I talk with Silvia Canelón, a postdoctoral research scientist in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania. Silvia shares why she loves using xaringan to create captivating, audience-friendly presentations directly from R markdown. Making presentations with R Markdown not only saves her time, but also eases the stress associated with updating and distributing presentations.\n\n\n\n\n Back to topCitationFor attribution, please cite this work as:\nCanelón, Silvia. 2023. “R for the Rest of Us Podcast: Episode\n#7.” April 18, 2023. https://github.com/shmuhammadd/quarto-web/project/2023-04-18-r-for-the-rest-of-us."
   },
   {
     "objectID": "project/index.html",
