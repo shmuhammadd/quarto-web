@@ -1,0 +1,45 @@
+[
+  {
+    "listing": "/talk/index.html",
+    "items": [
+      "/talk/2024-03-26-env-justice/index.html"
+    ]
+  },
+  {
+    "listing": "/project/2024-06-16-ccd-sips/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publication/index.html",
+    "items": [
+      "/publication/2024-05-27-tbi-definitions/index.html",
+      "/publication/2022-11-24-mwas-repurposed-covid19-meds/index.html"
+    ]
+  },
+  {
+    "listing": "/about/index.html",
+    "items": [
+      "/blog/2023-09-29-hello-quarto/index.html",
+      "/talk/2024-03-26-env-justice/index.html",
+      "/publication/2024-05-27-tbi-definitions/index.html",
+      "/publication/2022-11-24-mwas-repurposed-covid19-meds/index.html",
+      "/project/2024-06-16-ccd-sips/index.html",
+      "/project/2023-04-18-r-for-the-rest-of-us/index.html",
+      "/project/2021-07-07-presentable-user2021/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2023-09-29-hello-quarto/index.html"
+    ]
+  },
+  {
+    "listing": "/project/index.html",
+    "items": [
+      "/project/2024-06-16-ccd-sips/index.html",
+      "/project/2023-04-18-r-for-the-rest-of-us/index.html",
+      "/project/2021-07-07-presentable-user2021/index.html"
+    ]
+  }
+]

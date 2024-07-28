@@ -1,0 +1,3 @@
+/.quarto/
+/_site/git rm -r _site
+.Rproj.user
